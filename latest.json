@@ -2,7 +2,7 @@
   "apk_version": 24,
   "apk_name": "2.4",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.4.apk",
-  "ui_version": 1,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_1.zip",
-  "notes": "أول إصدار ذاتي التحديث"
+  "ui_version": 2,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_2.zip",
+  "notes": "تجربة التحديث الساخن: رقم الإصدار تحت الشعار"
 }
