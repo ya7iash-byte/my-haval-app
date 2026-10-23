@@ -1,8 +1,8 @@
 {
-  "apk_version": 26,
-  "apk_name": "2.6",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.6.apk",
+  "apk_version": 27,
+  "apk_name": "2.7",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.7.apk",
   "ui_version": 4,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_4.zip",
-  "notes": "تدرّج ناعم عبر اللون (255 درجة) + قواعد السقف/الأرضية للباب والقيادة وشاشة التوقف"
+  "notes": "استماع لحظي لبيانات المركبة عبر GWM SDK (الباب والغيار فوراً) بدل الاستطلاع"
 }
