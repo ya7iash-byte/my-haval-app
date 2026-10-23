@@ -1,8 +1,8 @@
 {
-  "apk_version": 24,
-  "apk_name": "2.4",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.4.apk",
-  "ui_version": 2,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_2.zip",
-  "notes": "تجربة التحديث الساخن: رقم الإصدار تحت الشعار"
+  "apk_version": 25,
+  "apk_name": "2.5",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.5.apk",
+  "ui_version": 3,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_3.zip",
+  "notes": "تخفيت الإضاءة أثناء القيادة (الخروج من P) + ضبط التبويبات"
 }
