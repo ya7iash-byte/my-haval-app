@@ -1,8 +1,8 @@
 {
-  "apk_version": 27,
-  "apk_name": "2.7",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.7.apk",
-  "ui_version": 4,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_4.zip",
-  "notes": "استماع لحظي لبيانات المركبة عبر GWM SDK (الباب والغيار فوراً) بدل الاستطلاع"
+  "apk_version": 28,
+  "apk_name": "2.8",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.8.apk",
+  "ui_version": 5,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_5.zip",
+  "notes": "زر اختيار صورة لخلفية شاشة التوقف من معرض الصور (تُقصّ تلقائياً)"
 }
