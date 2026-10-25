@@ -1,8 +1,8 @@
 {
-  "apk_version": 33,
-  "apk_name": "2.13",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.13.apk",
+  "apk_version": 34,
+  "apk_name": "2.14",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.14.apk",
   "ui_version": 14,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_14.zip",
-  "notes": "الإصلاح النهائي: الشاشة ما عادت تنغلق عند لمسها — الخروج بزر الـX أو ضغطة مطوّلة (أو أي لمسة إن اخترت «لمس أي مكان»). أزرار الصوت والخروج تعمل الآن. ثبّت."
+  "notes": "تحكم صوت الوسائط عبر نظام GWM بدل اندرويد. ثبت."
 }
