@@ -2,7 +2,7 @@
   "apk_version": 29,
   "apk_name": "2.9",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.9.apk",
-  "ui_version": 9,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_9.zip",
-  "notes": "خلفية جديدة هادئة (توهّج مستوحى من لوحة القيادة)"
+  "ui_version": 10,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_10.zip",
+  "notes": "شاشة التوقف: حذف عقرب الثواني من تصميم العقارب"
 }
