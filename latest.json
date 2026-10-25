@@ -1,8 +1,8 @@
 {
-  "apk_version": 40,
-  "apk_name": "2.20",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.20.apk",
-  "ui_version": 17,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_17.zip",
-  "notes": "ازرار تحكم على شريط الميديا: سابق/تشغيل-ايقاف/تالي، تتحكم بالتطبيق مباشرة (تتجاوز قيد ازرار المقود). ثبت."
+  "apk_version": 41,
+  "apk_name": "2.21",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.21.apk",
+  "ui_version": 18,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_18.zip",
+  "notes": "ازرار الميديا تتحكم بالراديو ايضا: عند غياب تطبيق، ترسل الامر عبر خدمة GWM (محطة تالية/سابقة). زر التشغيل/الايقاف يرسل الحالة الصحيحة. ثبت."
 }
