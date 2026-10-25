@@ -1,8 +1,8 @@
 {
-  "apk_version": 39,
-  "apk_name": "2.19",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.19.apk",
-  "ui_version": 16,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_16.zip",
-  "notes": "اصلاح الراديو: جلسته تملأ الوصف (Description) لا العنوان القياسي، فاضفنا تسلسل احتياطي Metadata ثم Description ثم ايقونة URI. الراديو والبلوتوث وUSB تظهر الان عبر نفس الطريق. ثبت."
+  "apk_version": 40,
+  "apk_name": "2.20",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.20.apk",
+  "ui_version": 17,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_17.zip",
+  "notes": "ازرار تحكم على شريط الميديا: سابق/تشغيل-ايقاف/تالي، تتحكم بالتطبيق مباشرة (تتجاوز قيد ازرار المقود). ثبت."
 }
