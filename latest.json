@@ -1,8 +1,8 @@
 {
-  "apk_version": 34,
-  "apk_name": "2.14",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.14.apk",
-  "ui_version": 14,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_14.zip",
-  "notes": "تحكم صوت الوسائط عبر نظام GWM بدل اندرويد. ثبت."
+  "apk_version": 35,
+  "apk_name": "2.15",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.15.apk",
+  "ui_version": 15,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_15.zip",
+  "notes": "أزرار + / − للصوت بدل التمرير (ضغطة = خطوة، ضغط مطوّل = تكرار)، وفل سكرين كامل يمنع قصّ الشريط. ثبّت."
 }
