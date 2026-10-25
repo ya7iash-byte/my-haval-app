@@ -2,7 +2,7 @@
   "apk_version": 30,
   "apk_name": "2.10",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.10.apk",
-  "ui_version": 11,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_11.zip",
-  "notes": "شريط صوت لجهة الراكب + زر خروج للشاشة (يعمل على كل التصاميم). طريقة الخروج صارت بالزر — غيّرها من الإعدادات ← شاشة التوقف ← تحكّم الشاشة. الميديا قادمة."
+  "ui_version": 12,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_12.zip",
+  "notes": "تحسين وضوح زر الخروج وشريط الصوت على شاشة التوقف (تحديث ساخن)"
 }
