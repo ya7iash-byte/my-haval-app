@@ -1,8 +1,8 @@
 {
-  "apk_version": 37,
-  "apk_name": "2.17",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.17.apk",
+  "apk_version": 38,
+  "apk_name": "2.18",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.18.apk",
   "ui_version": 16,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_16.zip",
-  "notes": "ميديا الراديو والمصادر الاصلية عبر خدمة GWM MixService (اسم الاذاعة/الاغنية + الغلاف). تعمل مع التطبيقات الخارجية ايضا. ثبت."
+  "notes": "تشخيص: يسجّل جلسات الوسائط النشطة عند عدم ظهور ميديا. شغّل الراديو وأرسل السجل."
 }
