@@ -2,7 +2,7 @@
   "apk_version": 29,
   "apk_name": "2.9",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.9.apk",
-  "ui_version": 6,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_6.zip",
-  "notes": "شاشة التوقف تظهر وتختفي بتلاشٍ ناعم"
+  "ui_version": 7,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_7.zip",
+  "notes": "إزالة عبارة Touch the screen من شاشة التوقف"
 }
