@@ -1,8 +1,8 @@
 {
-  "apk_version": 31,
-  "apk_name": "2.11",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.11.apk",
-  "ui_version": 13,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_13.zip",
-  "notes": "إصلاح جذري: أزرار شاشة التوقف (الصوت + الخروج) ما كانت تظهر في الشاشة الحقيقية بسبب كاش العرض — عطّلناه. ثبّت هذا الإصدار."
+  "apk_version": 32,
+  "apk_name": "2.12",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.12.apk",
+  "ui_version": 14,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_14.zip",
+  "notes": "إصلاح حاسم: الشاشة صارت تستخدم النسخة المدمجة الكاملة بدل المجلد الساخن المختلط. بعد التثبيت تظهر أزرار شاشة التوقف كاملة وفعّالة. ثبّت."
 }
