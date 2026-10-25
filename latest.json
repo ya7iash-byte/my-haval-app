@@ -1,8 +1,8 @@
 {
-  "apk_version": 35,
-  "apk_name": "2.15",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.15.apk",
-  "ui_version": 15,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_15.zip",
-  "notes": "أزرار + / − للصوت بدل التمرير (ضغطة = خطوة، ضغط مطوّل = تكرار)، وفل سكرين كامل يمنع قصّ الشريط. ثبّت."
+  "apk_version": 36,
+  "apk_name": "2.16",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.16.apk",
+  "ui_version": 16,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_16.zip",
+  "notes": "الميديا: اسم الاغنية/الاذاعة والغلاف اسفل الساعة (يتطلب تفعيل مركبتي في الوصول للاشعارات). الصوت: ايقونة سماعة بدل الرقم + يتعلم اقصى النظام تلقائيا. ثبت."
 }
