@@ -1,8 +1,8 @@
 {
-  "apk_version": 32,
-  "apk_name": "2.12",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.12.apk",
+  "apk_version": 33,
+  "apk_name": "2.13",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.13.apk",
   "ui_version": 14,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_14.zip",
-  "notes": "إصلاح حاسم: الشاشة صارت تستخدم النسخة المدمجة الكاملة بدل المجلد الساخن المختلط. بعد التثبيت تظهر أزرار شاشة التوقف كاملة وفعّالة. ثبّت."
+  "notes": "الإصلاح النهائي: الشاشة ما عادت تنغلق عند لمسها — الخروج بزر الـX أو ضغطة مطوّلة (أو أي لمسة إن اخترت «لمس أي مكان»). أزرار الصوت والخروج تعمل الآن. ثبّت."
 }
