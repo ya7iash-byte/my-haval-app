@@ -2,7 +2,7 @@
   "apk_version": 28,
   "apk_name": "2.8",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.8.apk",
-  "ui_version": 5,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_5.zip",
-  "notes": "زر اختيار صورة لخلفية شاشة التوقف من معرض الصور (تُقصّ تلقائياً)"
+  "ui_version": 6,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_6.zip",
+  "notes": "إصلاح: خلفية الصورة في شاشة التوقف كانت تتبدّل للسوداء كل 15 ثانية"
 }
