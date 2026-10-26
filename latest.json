@@ -1,8 +1,8 @@
 {
-  "apk_version": 58,
-  "apk_name": "2.38",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.38.apk",
+  "apk_version": 59,
+  "apk_name": "2.39",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.39.apk",
   "ui_version": 22,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_22.zip",
-  "notes": "يوتيوب ميوزك يرجع يظهر ويُتحكّم فيه: الشاشة تعرض المصدر اللي يشتغل فعلاً (راديو/أوتو من النظام، أو يوتيوب ميوزك)، وأزرار التحكم توجّه للمصدر الصحيح تلقائياً."
+  "notes": "تجربة الفل سكرين لشاشة التوقف: محاولة إخفاء الشريط العلوي والدوك. للخروج: اضغط مطوّلاً على الشاشة. لو ما انضبط، نرجّعه فوراً."
 }
