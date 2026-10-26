@@ -1,8 +1,8 @@
 {
-  "apk_version": 53,
-  "apk_name": "2.33",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.33.apk",
+  "apk_version": 54,
+  "apk_name": "2.34",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.34.apk",
   "ui_version": 20,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_20.zip",
-  "notes": "تصحيح العرض: نرجّع النسخة المنسّقة (فيها on+title) بدل النص الخام، فيظهر الراديو على الشاشة. حدّث، شغّل راديو، افتح شاشة التوقف — المفروض يظهر اسم المحطة."
+  "notes": "ربط ازرار التحكم بناقل GUX للراديو والمصادر الاصلية. حدّث وجرّب التالي/السابق على الراديو."
 }
