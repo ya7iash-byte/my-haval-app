@@ -1,8 +1,8 @@
 {
-  "apk_version": 55,
-  "apk_name": "2.35",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.35.apk",
+  "apk_version": 56,
+  "apk_name": "2.36",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.36.apk",
   "ui_version": 22,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_22.zip",
-  "notes": "تحديث الواجهة: تسريع تحديث بطاقة الأغنية (تحديث كل ثانيتين + قراءات متتابعة بعد الضغط) لتظهر الأغنية الجديدة أسرع سواء غيّرتها من الشاشة أو من الدركسون."
+  "notes": "إصلاح أزرار التحكم في الشاشة: الآن الأمر يستهدف المصدر النشط (نوع المصدر + حزمته) فيتغير المقطع فعلاً، حتى مع أندرويد أوتو. مع تسريع تحديث البطاقة."
 }
