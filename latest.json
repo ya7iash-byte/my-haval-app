@@ -1,8 +1,8 @@
 {
-  "apk_version": 57,
-  "apk_name": "2.37",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.37.apk",
+  "apk_version": 58,
+  "apk_name": "2.38",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.38.apk",
   "ui_version": 22,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_22.zip",
-  "notes": "إصلاح التحكم: إرسال أوامر التشغيل/التالي/السابق بالطريقة الصحيحة (مع ردّ) بدل الطريقة التي يتجاهلها النظام. جرّب التغيير من الشاشة على الراديو."
+  "notes": "يوتيوب ميوزك يرجع يظهر ويُتحكّم فيه: الشاشة تعرض المصدر اللي يشتغل فعلاً (راديو/أوتو من النظام، أو يوتيوب ميوزك)، وأزرار التحكم توجّه للمصدر الصحيح تلقائياً."
 }
