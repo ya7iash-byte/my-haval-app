@@ -1,8 +1,8 @@
 {
-  "apk_version": 56,
-  "apk_name": "2.36",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.36.apk",
+  "apk_version": 57,
+  "apk_name": "2.37",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.37.apk",
   "ui_version": 22,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_22.zip",
-  "notes": "إصلاح أزرار التحكم في الشاشة: الآن الأمر يستهدف المصدر النشط (نوع المصدر + حزمته) فيتغير المقطع فعلاً، حتى مع أندرويد أوتو. مع تسريع تحديث البطاقة."
+  "notes": "إصلاح التحكم: إرسال أوامر التشغيل/التالي/السابق بالطريقة الصحيحة (مع ردّ) بدل الطريقة التي يتجاهلها النظام. جرّب التغيير من الشاشة على الراديو."
 }
