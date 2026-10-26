@@ -1,8 +1,8 @@
 {
-  "apk_version": 45,
-  "apk_name": "2.25",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.25.apk",
+  "apk_version": 46,
+  "apk_name": "2.26",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.26.apk",
   "ui_version": 19,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_19.zip",
-  "notes": "فحص خدمات الميديا: يطبع أسماء الخدمات الدقيقة وصلاحياتها داخل حزم الميديا على سيارتك. حدّث، شغّل الراديو، افتح شاشة التوقف، ارسل السجل (ابحث عن اسطر svcs)."
+  "notes": "فحص شامل: يجرّب ربط كل خدمات الميديا على سيارتك ويطبع أيّها يتكلّم بروتوكول IMediaService. حدّث، شغّل الراديو، افتح شاشة التوقف وانتظر 15 ثانية، ارسل السجل (ابحث عن probe)."
 }
