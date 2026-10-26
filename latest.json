@@ -1,8 +1,8 @@
 {
-  "apk_version": 52,
-  "apk_name": "2.32",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.32.apk",
+  "apk_version": 53,
+  "apk_name": "2.33",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.33.apk",
   "ui_version": 20,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_20.zip",
-  "notes": "زر رفع السجل: يرفع السجل كامل ويعطيك رابط ترسله. + الراديو صار يُقرأ عبر ناقل GUX. حدّث، وبعدها استخدم زر Send log واعطني الرابط."
+  "notes": "تصحيح العرض: نرجّع النسخة المنسّقة (فيها on+title) بدل النص الخام، فيظهر الراديو على الشاشة. حدّث، شغّل راديو، افتح شاشة التوقف — المفروض يظهر اسم المحطة."
 }
