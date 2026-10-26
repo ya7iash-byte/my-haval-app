@@ -2,7 +2,7 @@
   "apk_version": 55,
   "apk_name": "2.35",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.35.apk",
-  "ui_version": 21,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_21.zip",
-  "notes": "تحديث كبير: شاشة توقف فل سكرين، بطاقة ميديا أنيقة جهة الراكب (آبل-ستايل) بعيدة عن الساعة، تمرير العنوان الطويل، FM+التردد+نجمة المفضلة، والعرض/التحكم يتبع المصدر الفعلي (راديو/أندرويد أوتو) لا يعلق على يوتيوب."
+  "ui_version": 22,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_22.zip",
+  "notes": "تحديث الواجهة: تسريع تحديث بطاقة الأغنية (تحديث كل ثانيتين + قراءات متتابعة بعد الضغط) لتظهر الأغنية الجديدة أسرع سواء غيّرتها من الشاشة أو من الدركسون."
 }
