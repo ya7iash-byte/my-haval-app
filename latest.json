@@ -1,8 +1,8 @@
 {
-  "apk_version": 60,
-  "apk_name": "2.40",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.40.apk",
-  "ui_version": 23,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_23.zip",
-  "notes": "تحسين انتقال شاشة التوقف: تظهر بنعومة من سواد كامل بدل ما تبين الشاشة اللي خلفها أثناء الدخول. (الفل سكرين كما هو.)"
+  "apk_version": 61,
+  "apk_name": "2.41",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.41.apk",
+  "ui_version": 24,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_24.zip",
+  "notes": "شريط المكيف الأمامي على شاشة التوقف: حرارة السائق (يسار) والراكب (يمين) مع رفع/تنزيل، ومؤشر مروحة مؤقت، وأذان مختصر. أول ميزة تتحكم بالحرارة."
 }
