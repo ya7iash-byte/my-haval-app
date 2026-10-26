@@ -1,8 +1,8 @@
 {
-  "apk_version": 44,
-  "apk_name": "2.24",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.24.apk",
+  "apk_version": 45,
+  "apk_name": "2.25",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.25.apk",
   "ui_version": 19,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_19.zip",
-  "notes": "فحص اكتشاف: يطبع حزم الميديا المثبتة على السيارة + جرّبنا صلاحيات ميديا جديدة. حدّث، شغّل الراديو، افتح شاشة التوقف 15 ثانية، ارسل السجل."
+  "notes": "فحص خدمات الميديا: يطبع أسماء الخدمات الدقيقة وصلاحياتها داخل حزم الميديا على سيارتك. حدّث، شغّل الراديو، افتح شاشة التوقف، ارسل السجل (ابحث عن اسطر svcs)."
 }
