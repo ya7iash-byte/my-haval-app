@@ -1,8 +1,8 @@
 {
-  "apk_version": 47,
-  "apk_name": "2.27",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.27.apk",
+  "apk_version": 48,
+  "apk_name": "2.28",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.28.apk",
   "ui_version": 19,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_19.zip",
-  "notes": "فحص محسّن: يطبع اسم البروتوكول الحقيقي لكل خدمة ميديا تتصل + يكشف الخدمات التي ترفضنا. حدّث، شغّل الراديو، افتح شاشة التوقف 15 ثانية، ارسل السجل (ابحث عن iface و NULL)."
+  "notes": "موصّل ناقل GUX: يتصل بخدمة الميديا ببروتوكولها الصحيح ويقرأ معلومات التشغيل الحالية (الراديو). حدّث، شغّل الراديو، افتح شاشة التوقف 15 ثانية، شف هل يظهر اسم المحطة + ارسل السجل (ابحث عن gux)."
 }
