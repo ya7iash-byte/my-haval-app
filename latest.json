@@ -1,8 +1,8 @@
 {
-  "apk_version": 61,
-  "apk_name": "2.41",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.41.apk",
+  "apk_version": 62,
+  "apk_name": "2.42",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.42.apk",
   "ui_version": 24,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_24.zip",
-  "notes": "شريط المكيف الأمامي على شاشة التوقف: حرارة السائق (يسار) والراكب (يمين) مع رفع/تنزيل، ومؤشر مروحة مؤقت، وأذان مختصر. أول ميزة تتحكم بالحرارة."
+  "notes": "تشخيص أزرار الدركسون: نسجّل مستمع لأحداث أزرار الوسائط في الدركسون ونطبعها في اللوق، للتأكد أنها توصلنا قبل بناء المحرك."
 }
