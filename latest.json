@@ -1,8 +1,8 @@
 {
-  "apk_version": 49,
-  "apk_name": "2.29",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.29.apk",
+  "apk_version": 50,
+  "apk_name": "2.30",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.30.apk",
   "ui_version": 19,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_19.zip",
-  "notes": "قراءة الراديو بطريقة gwm_split الصحيحة (طلب+ردّ عبر callback). حدّث، امسح السجل، شغّل راديو، افتح شاشة التوقف 15ث، شف هل يظهر اسم المحطة + ارسل اسطر gux."
+  "notes": "تصحيح اسم واجهة الناقل (gux بدل guxlib). حدّث، امسح السجل، شغّل راديو، افتح شاشة التوقف 15ث، شف اسم المحطة + ارسل اسطر gux."
 }
