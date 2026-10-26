@@ -1,8 +1,8 @@
 {
-  "apk_version": 46,
-  "apk_name": "2.26",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.26.apk",
+  "apk_version": 47,
+  "apk_name": "2.27",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.27.apk",
   "ui_version": 19,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_19.zip",
-  "notes": "فحص شامل: يجرّب ربط كل خدمات الميديا على سيارتك ويطبع أيّها يتكلّم بروتوكول IMediaService. حدّث، شغّل الراديو، افتح شاشة التوقف وانتظر 15 ثانية، ارسل السجل (ابحث عن probe)."
+  "notes": "فحص محسّن: يطبع اسم البروتوكول الحقيقي لكل خدمة ميديا تتصل + يكشف الخدمات التي ترفضنا. حدّث، شغّل الراديو، افتح شاشة التوقف 15 ثانية، ارسل السجل (ابحث عن iface و NULL)."
 }
