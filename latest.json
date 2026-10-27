@@ -1,8 +1,8 @@
 {
-  "apk_version": 68,
-  "apk_name": "2.48",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.48.apk",
+  "apk_version": 69,
+  "apk_name": "2.49",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.49.apk",
   "ui_version": 25,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
-  "notes": "تجربة: نفتح يوتيوب عبر نافذة وسيطة (من سياق Activity مب خدمة). اضغط زر الموسيقى — نشوف هل يطلع نافذة الحين. صوّر لي."
+  "notes": "وصفة Kafo كاملة: مود ٦ + display id + إعادة محاولة بعد 120/300ms. اضغط زر الموسيقى — نشوف هل يطلع نافذة الحين. صوّر لي الشاشة وسطر AppOpen من اللوق."
 }
