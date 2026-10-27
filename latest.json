@@ -1,8 +1,8 @@
 {
-  "apk_version": 77,
-  "apk_name": "2.57",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.57.apk",
+  "apk_version": 78,
+  "apk_name": "2.58",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.58.apk",
   "ui_version": 25,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
-  "notes": "v2.57: قراءة windowingMode الفعلي + setTaskWindowingMode(6) لو النافذة فتحت FULLSCREEN، قبل resize"
+  "notes": "v2.58 اختبار: زر الموسيقى يفتح الإعدادات (resizable) للتحقق هل الحائط من OVB او من يوتيوب"
 }
