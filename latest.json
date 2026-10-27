@@ -1,8 +1,8 @@
 {
-  "apk_version": 65,
-  "apk_name": "2.45",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.45.apk",
+  "apk_version": 66,
+  "apk_name": "2.46",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.46.apk",
   "ui_version": 25,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
-  "notes": "بيتا تجريبية: زر «الموسيقى» في شاشة الاستعداد. لما فيه أغنية شغّالة — المس صورة الألبوم (علامة ⤢) يفتح المصدر نفسه. لما ما فيه شي — زر «الموسيقى» يفتح تطبيقك الافتراضي (يوتيوب ميوزك). يفتح بنافذة إذا النظام يسمح وإلا ملء الشاشة. للتجربة — لو فيه أي مشكلة نرجع فوراً للنسخة السابقة."
+  "notes": "تشخيص سريع: نفس الزر، بس يكتب في اللوق هل الروم يسمح بالنوافذ الحرة. اضغط الزر مرة وابعث اللوق."
 }
