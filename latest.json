@@ -1,8 +1,8 @@
 {
-  "apk_version": 64,
-  "apk_name": "2.44",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.44.apk",
-  "ui_version": 24,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_24.zip",
-  "notes": "محرك الدركسون: الآن أزرار التالي/السابق/تشغيل في الدركسون تتحكم بيوتيوب ميوزك (والتطبيقات المستقلة) اللي كان الدركسون ما يعرفها. المصادر الرسمية تبقى كما هي."
+  "apk_version": 65,
+  "apk_name": "2.45",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.45.apk",
+  "ui_version": 25,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
+  "notes": "بيتا تجريبية: زر «الموسيقى» في شاشة الاستعداد. لما فيه أغنية شغّالة — المس صورة الألبوم (علامة ⤢) يفتح المصدر نفسه. لما ما فيه شي — زر «الموسيقى» يفتح تطبيقك الافتراضي (يوتيوب ميوزك). يفتح بنافذة إذا النظام يسمح وإلا ملء الشاشة. للتجربة — لو فيه أي مشكلة نرجع فوراً للنسخة السابقة."
 }
