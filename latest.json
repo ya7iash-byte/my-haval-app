@@ -1,8 +1,8 @@
 {
-  "apk_version": 69,
-  "apk_name": "2.49",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.49.apk",
+  "apk_version": 70,
+  "apk_name": "2.50",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.50.apk",
   "ui_version": 25,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
-  "notes": "وصفة Kafo كاملة: مود ٦ + display id + إعادة محاولة بعد 120/300ms. اضغط زر الموسيقى — نشوف هل يطلع نافذة الحين. صوّر لي الشاشة وسطر AppOpen من اللوق."
+  "notes": "رفع اللوق صار عبر 0x0.st (أسرع). + تشخيص الشاشات الأربع. اضغط زر الموسيقى، ثم جرّب Send log — المفروض يطلع رابط يشتغل. أو صوّر سطر disp: ."
 }
