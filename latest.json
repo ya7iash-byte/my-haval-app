@@ -1,8 +1,8 @@
 {
-  "apk_version": 67,
-  "apk_name": "2.47",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.47.apk",
+  "apk_version": 68,
+  "apk_name": "2.48",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.48.apk",
   "ui_version": 25,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
-  "notes": "نافذة يوتيوب! جرّبنا طريقة Kafo (مود ٦). اضغط زر الموسيقى — المفروض يوتيوب يفتح في نافذة يمين ~٤٠٪ مب ملء شاشة. جرّب وصوّر لي."
+  "notes": "تجربة: نفتح يوتيوب عبر نافذة وسيطة (من سياق Activity مب خدمة). اضغط زر الموسيقى — نشوف هل يطلع نافذة الحين. صوّر لي."
 }
