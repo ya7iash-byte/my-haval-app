@@ -1,8 +1,8 @@
 {
-  "apk_version": 73,
-  "apk_name": "2.53",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.53.apk",
+  "apk_version": 74,
+  "apk_name": "2.54",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.54.apk",
   "ui_version": 25,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
-  "notes": "رفع اللوق صار عبر termbin (TCP خام، يعدّي الحجب غالباً) + يسجّل سبب فشل الفتح. اضغط زر الموسيقى، ثم Send log — ابعث الرابط."
+  "notes": "إصلاح مهم: التحديث المزدوج انحل — بعد هالتثبيت، تحديثات الـAPK تصير خطوة وحدة بدون طلب تحديث UI إضافي. (نفس تجربة النافذة واللوق termbin شغّالين). اضغط زر الموسيقى وابعث اللوق."
 }
