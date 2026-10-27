@@ -1,8 +1,8 @@
 {
-  "apk_version": 71,
-  "apk_name": "2.51",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.51.apk",
+  "apk_version": 72,
+  "apk_name": "2.52",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.52.apk",
   "ui_version": 25,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
-  "notes": "خطوة مهمة: نفتح يوتيوب من خدمة الوصول (مثل Kafo). لازم تفعّلها مرة: إعدادات أندرويد > إمكانية الوصول (Accessibility) > My Haval > شغّلها. بعدها اضغط زر الموسيقى. صوّر النتيجة."
+  "notes": "الاكتشاف الحقيقي من كود Kafo: نفتح على الشاشة ٢ (منطقة النافذة) مب الرئيسية. اضغط زر الموسيقى — المفروض يطلع نافذة أخيراً!"
 }
