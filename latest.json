@@ -1,8 +1,8 @@
 {
-  "apk_version": 70,
-  "apk_name": "2.50",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.50.apk",
+  "apk_version": 71,
+  "apk_name": "2.51",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.51.apk",
   "ui_version": 25,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
-  "notes": "رفع اللوق صار عبر 0x0.st (أسرع). + تشخيص الشاشات الأربع. اضغط زر الموسيقى، ثم جرّب Send log — المفروض يطلع رابط يشتغل. أو صوّر سطر disp: ."
+  "notes": "خطوة مهمة: نفتح يوتيوب من خدمة الوصول (مثل Kafo). لازم تفعّلها مرة: إعدادات أندرويد > إمكانية الوصول (Accessibility) > My Haval > شغّلها. بعدها اضغط زر الموسيقى. صوّر النتيجة."
 }
