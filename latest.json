@@ -1,8 +1,8 @@
 {
-  "apk_version": 74,
-  "apk_name": "2.54",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.54.apk",
+  "apk_version": 75,
+  "apk_name": "2.55",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.55.apk",
   "ui_version": 25,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
-  "notes": "إصلاح مهم: التحديث المزدوج انحل — بعد هالتثبيت، تحديثات الـAPK تصير خطوة وحدة بدون طلب تحديث UI إضافي. (نفس تجربة النافذة واللوق termbin شغّالين). اضغط زر الموسيقى وابعث اللوق."
+  "notes": "الخطوة الناقصة! بعد الفتح نجبر حجم النافذة عبر resizeStack (زي Kafo). اضغط زر الموسيقى — المفروض يوتيوب يطلع نافذة يمين! صوّر، ولو ما ضبط ابعث لوق termbin."
 }
