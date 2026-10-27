@@ -1,8 +1,8 @@
 {
-  "apk_version": 76,
-  "apk_name": "2.56",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.56.apk",
+  "apk_version": 77,
+  "apk_name": "2.57",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.57.apk",
   "ui_version": 25,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_25.zip",
-  "notes": "v2.56: تشخيص resizeStack - طباعة السبب الحقيقي للخطأ وتجربة كل الصيغ"
+  "notes": "v2.57: قراءة windowingMode الفعلي + setTaskWindowingMode(6) لو النافذة فتحت FULLSCREEN، قبل resize"
 }
