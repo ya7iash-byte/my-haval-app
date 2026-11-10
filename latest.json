@@ -1,8 +1,8 @@
 {
-  "apk_version": 114,
-  "apk_name": "2.87",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.87.apk",
-  "ui_version": 48,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_48.zip",
-  "notes": "v2.87: تصميم BMW مناخ ذكي مع لوحة تحكم كاملة. ٣ تصاميم للساعة (BMW/أرقام زجاجية/عقارب+تقويم) · ٤ خلفيات (لوحة قيادة/توهّج/أسود/صورة) · toggle لوحة التحكم تفعّل الشريط والأعمدة فوق أي تصميم. الأعمدة: السائق (كهرماني) + الراكب (أزرق) + وسط ميديا/صوت/مروحة. شريط HVAC سفلي: AUTO · A/C · تدوير · ٤ اتجاهات هواء · ضباب أمامي+خلفي. أيقونات حقيقية من مراجع هافال. زر Home كهرماني + لمس الخلفية الفاضية = خروج. دعم ذاكرة المقعد [1][2][3]. مساج (منطق v2.797) + تبريد مقاعد optimistic UI. المروحة تختفي عند engine_speed<50. Chrome 66 safe (كل الأيقونات data URIs inline)."
+  "apk_version": 115,
+  "apk_name": "2.88",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
+  "ui_version": 49,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_49.zip",
+  "notes": "v2.88: fix massage (revert to v2.80 write pattern)"
 }
