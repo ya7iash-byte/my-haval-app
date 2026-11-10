@@ -1,8 +1,8 @@
 {
-  "apk_version": 103,
-  "apk_name": "2.794",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.794.apk",
-  "ui_version": 37,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_37.zip",
-  "notes": "v2.794 — النسخة المستقرّة الجديدة (قفزة كبيرة من v2.59 المنشورة سابقاً). أبرز التغييرات: لوحة حالة المركبة جديدة (أيقونة العدّاد في الشريط العلوي) بها النطاق، الوقود، ضغط الإطارات، حالة الأبواب مع رسم H9 من الأعلى، وعدّاد صيانة قابل للتحديث بزر 'تم'. نظام تصميم موحّد بأكسنت كهرماني #E8923A يتطابق مع كرت الميديا في StandBy. شريط الأيقونات رُفع لأعلى الشاشة بعرض 600px مُطابق لكرت الميديا، والـ modals تفتح للأسفل. كل الشرطات في المروحة والمقاعد والمساج حُوّلت إلى أزرار +/− كبيرة مع إظهار 'مغلق' عند الصفر. HVAC + Seats + Massage + Media + Status جميعها شغّالة بكتابة فعلية للـ GWM Adapter. مبنية من v2.76 base الكامل (ليس v2.9.x الناقص)."
+  "apk_version": 114,
+  "apk_name": "2.87",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.87.apk",
+  "ui_version": 48,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_48.zip",
+  "notes": "v2.87: تصميم BMW مناخ ذكي مع لوحة تحكم كاملة. ٣ تصاميم للساعة (BMW/أرقام زجاجية/عقارب+تقويم) · ٤ خلفيات (لوحة قيادة/توهّج/أسود/صورة) · toggle لوحة التحكم تفعّل الشريط والأعمدة فوق أي تصميم. الأعمدة: السائق (كهرماني) + الراكب (أزرق) + وسط ميديا/صوت/مروحة. شريط HVAC سفلي: AUTO · A/C · تدوير · ٤ اتجاهات هواء · ضباب أمامي+خلفي. أيقونات حقيقية من مراجع هافال. زر Home كهرماني + لمس الخلفية الفاضية = خروج. دعم ذاكرة المقعد [1][2][3]. مساج (منطق v2.797) + تبريد مقاعد optimistic UI. المروحة تختفي عند engine_speed<50. Chrome 66 safe (كل الأيقونات data URIs inline)."
 }
