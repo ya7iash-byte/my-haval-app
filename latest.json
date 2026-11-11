@@ -2,7 +2,7 @@
   "apk_version": 115,
   "apk_name": "2.88",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 52,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_52.zip",
-  "notes": "v2.94 UI: Defender-inspired redesign — SAME functions, cleaner layout. BMW chassis universal with 3 column titles (السائق/الموسيقى/الراكب). Bigger HVAC strip + bigger fan stepper matching temp stepper family. 9 bugs fixed: photo background works, BMW ctrl toggle, no duplicated prayer/temp/exit, cycle_mode inversion (تدوير now matches physical red light), inset CSS, sb_exit respected in BMW, removed ghost #fb clock, honest preview iframe in settings. Arabic labels refined (ميديا→الموسيقى, مساج→التدليك, تبريد→التبريد). Button sizes doubled across temp/fan/vol/memory steppers for driver+passenger reach."
+  "ui_version": 53,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_53.zip",
+  "notes": "v2.94.1 hotfix: revert settings preview to StandBy.mount (iframe approach caused WebView 66 to close the app when tapping شاشة التوقف tab). Preview now shows classic glass/analog correctly; BMW chassis preview will be revisited later. All v2.94 UI changes kept (Defender-inspired chassis, bigger HVAC, elegant Arabic, cycle_mode fix, etc.)."
 }
