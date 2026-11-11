@@ -2,7 +2,7 @@
   "apk_version": 115,
   "apk_name": "2.88",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 56,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_56.zip",
-  "notes": "v2.96 — Day mode contrast fixes (on-car feedback): WHITE card fills instead of 4% dark tint (was blending into cream), stronger borders 0.18 vs 0.09, darker amber #8F5519 (was #B36B22) for text legibility, darker ice #0A6174, clock font-weight 300 vs 200, subtle shadows on all cards+buttons for depth. HVAC strip buttons now have visible borders + shadows. Column divider opacity bumped 0.1→0.18. All structure/layout unchanged."
+  "ui_version": 57,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_57.zip",
+  "notes": "v2.97 — Night mode detail fixes (on-car feedback close-up): driver seg icons were 26px while passenger segs were 36px (legacy inline sizes); now both forced to 44×44 via CSS !important, so massage/cooling glyphs fill the 48px wrapper properly. Slit level indicators bumped from 12% to 22% opacity so inactive levels are readable without being as loud as the active amber/ice bars."
 }
