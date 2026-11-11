@@ -2,7 +2,7 @@
   "apk_version": 115,
   "apk_name": "2.88",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 58,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_58.zip",
-  "notes": "v2.98 — Recirculation (تدوير) icon replaced with the owner's chosen glyph: car silhouette with U-turn arrow inside, matching what he sees on the real HVAC panel. New mask swapped in-place in .mico-cycle; the hstrip CSS forces it to 38×32 like the other buttons, so nothing else moves."
+  "ui_version": 59,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_59.zip",
+  "notes": "v3.01 — Major OCD-pass per owner feedback:\n• Temp +/- enlarged to 110px circles with 56px icons (was 88/38). Visible, confident taps.\n• Fan stepper redesigned: chevrons up/down replace +/−, propeller icon stacked above number, \"مطفى\" dim state when fan=0 or AC off.\n• HVAC strip: icon-only, equal 56×56 glyphs for cycle/blow-dirs/defrost. AUTO stays as the universal \"AUTO\" word. A/C swaps to \"مطفأ\" text when off.\n• Music card unified in one container (album art + title + play controls in one frame, volume stays below).\n• Driver massage icon mirrored so legs face toward the driver side; passenger legs face toward the passenger side.\n• Almarai font applied across standby (Light/Regular/Bold, woff2 ~146KB total). Settings screen keeps its font.\n• Close-app button added to settings → About card (calls Native.exit, so you can reopen cleanly after a UI update)."
 }
