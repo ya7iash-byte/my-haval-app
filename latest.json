@@ -2,7 +2,7 @@
   "apk_version": 115,
   "apk_name": "2.88",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 57,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_57.zip",
-  "notes": "v2.97 — Night mode detail fixes (on-car feedback close-up): driver seg icons were 26px while passenger segs were 36px (legacy inline sizes); now both forced to 44×44 via CSS !important, so massage/cooling glyphs fill the 48px wrapper properly. Slit level indicators bumped from 12% to 22% opacity so inactive levels are readable without being as loud as the active amber/ice bars."
+  "ui_version": 58,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_58.zip",
+  "notes": "v2.98 — Recirculation (تدوير) icon replaced with the owner's chosen glyph: car silhouette with U-turn arrow inside, matching what he sees on the real HVAC panel. New mask swapped in-place in .mico-cycle; the hstrip CSS forces it to 38×32 like the other buttons, so nothing else moves."
 }
