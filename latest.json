@@ -2,7 +2,7 @@
   "apk_version": 115,
   "apk_name": "2.88",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 55,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_55.zip",
-  "notes": "v2.95 UI: Day mode added. All structure, layout, widgets identical to night mode — ONLY the color palette flips. Cream warm background (#F2EDE4), dark warm text (#1A1715), amber darkened to #B36B22 for contrast on light, ice darkened to #0E7490. Solid amber-gradient Play button, soft shadows on cards, subtle dark column dividers. Toggle in Settings → StandBy → النمط (ليلي/نهاري). All 4 backgrounds (cluster/glow/black/photo) have day variants. Analog SVG clock dark-on-light. Pure CSS token flip — no HTML or JS changes."
+  "ui_version": 56,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_56.zip",
+  "notes": "v2.96 — Day mode contrast fixes (on-car feedback): WHITE card fills instead of 4% dark tint (was blending into cream), stronger borders 0.18 vs 0.09, darker amber #8F5519 (was #B36B22) for text legibility, darker ice #0A6174, clock font-weight 300 vs 200, subtle shadows on all cards+buttons for depth. HVAC strip buttons now have visible borders + shadows. Column divider opacity bumped 0.1→0.18. All structure/layout unchanged."
 }
