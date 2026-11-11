@@ -2,7 +2,7 @@
   "apk_version": 115,
   "apk_name": "2.88",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 59,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_59.zip",
-  "notes": "v3.01 — Major OCD-pass per owner feedback:\n• Temp +/- enlarged to 110px circles with 56px icons (was 88/38). Visible, confident taps.\n• Fan stepper redesigned: chevrons up/down replace +/−, propeller icon stacked above number, \"مطفى\" dim state when fan=0 or AC off.\n• HVAC strip: icon-only, equal 56×56 glyphs for cycle/blow-dirs/defrost. AUTO stays as the universal \"AUTO\" word. A/C swaps to \"مطفأ\" text when off.\n• Music card unified in one container (album art + title + play controls in one frame, volume stays below).\n• Driver massage icon mirrored so legs face toward the driver side; passenger legs face toward the passenger side.\n• Almarai font applied across standby (Light/Regular/Bold, woff2 ~146KB total). Settings screen keeps its font.\n• Close-app button added to settings → About card (calls Native.exit, so you can reopen cleanly after a UI update)."
+  "ui_version": 60,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_60.zip",
+  "notes": "v3.02 — on-car feedback after ui_59:\n• A/C off state now shows the A/C glyph (dimmed to 45%) with 'OFF' caption below, instead of hiding the icon behind standalone 'مطفأ' text — the button keeps its identity.\n• Day-mode clock: weight 300 (thin) was disappearing on cream background. Bumped to 700 bold, color to #2A1F14 deep warm, letter-spacing −2px."
 }
