@@ -2,7 +2,7 @@
   "apk_version": 115,
   "apk_name": "2.88",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 54,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_54.zip",
-  "notes": "v2.94.1 hotfix (bumped to 54 to pass BUNDLED_UI=53 of installed v2.90 APK). Settings preview reverted to StandBy.mount — no iframe, so شاشة التوقف tab opens correctly. All v2.94 UI changes intact."
+  "ui_version": 55,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_55.zip",
+  "notes": "v2.95 UI: Day mode added. All structure, layout, widgets identical to night mode — ONLY the color palette flips. Cream warm background (#F2EDE4), dark warm text (#1A1715), amber darkened to #B36B22 for contrast on light, ice darkened to #0E7490. Solid amber-gradient Play button, soft shadows on cards, subtle dark column dividers. Toggle in Settings → StandBy → النمط (ليلي/نهاري). All 4 backgrounds (cluster/glow/black/photo) have day variants. Analog SVG clock dark-on-light. Pure CSS token flip — no HTML or JS changes."
 }
