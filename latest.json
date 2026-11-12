@@ -2,7 +2,7 @@
   "apk_version": 115,
   "apk_name": "2.88",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 60,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_60.zip",
-  "notes": "v3.02 — on-car feedback after ui_59:\n• A/C off state now shows the A/C glyph (dimmed to 45%) with 'OFF' caption below, instead of hiding the icon behind standalone 'مطفأ' text — the button keeps its identity.\n• Day-mode clock: weight 300 (thin) was disappearing on cream background. Bumped to 700 bold, color to #2A1F14 deep warm, letter-spacing −2px."
+  "ui_version": 61,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_61.zip",
+  "notes": "v3.03 — day-mode clock washes out on cream under direct sunlight. Switched from near-black to the design's amber (var(--amber) = #8F5519) with weight 900 and 1px webkit-text-stroke so it matches the greeting line's color family and has enough weight to survive glare."
 }
