@@ -2,7 +2,7 @@
   "apk_version": 115,
   "apk_name": "2.88",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 61,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_61.zip",
-  "notes": "v3.03 — day-mode clock washes out on cream under direct sunlight. Switched from near-black to the design's amber (var(--amber) = #8F5519) with weight 900 and 1px webkit-text-stroke so it matches the greeting line's color family and has enough weight to survive glare."
+  "ui_version": 62,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_62.zip",
+  "notes": "v3.04 — auto theme (ambient light aware):\n• Settings → النمط has three pills now: تلقائي / ليلي / نهاري. Default is تلقائي.\n• Auto mode follows car.basic.low_beam_light_status: lights on → night, lights off → day. Re-checked every 3-second vehicle tick, so no manual toggling while driving at sunset or into a tunnel.\n• Picking ليلي or نهاري pins the mode manually and ignores the lights.\n• Low-beam key already proven reliable on H9 Saudi (per CLAUDE notes)."
 }
