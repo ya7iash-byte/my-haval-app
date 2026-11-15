@@ -2,7 +2,7 @@
   "apk_version": 115,
   "apk_name": "2.88",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 62,
-  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_62.zip",
-  "notes": "v3.04 — auto theme (ambient light aware):\n• Settings → النمط has three pills now: تلقائي / ليلي / نهاري. Default is تلقائي.\n• Auto mode follows car.basic.low_beam_light_status: lights on → night, lights off → day. Re-checked every 3-second vehicle tick, so no manual toggling while driving at sunset or into a tunnel.\n• Picking ليلي or نهاري pins the mode manually and ignores the lights.\n• Low-beam key already proven reliable on H9 Saudi (per CLAUDE notes)."
+  "ui_version": 63,
+  "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_63.zip",
+  "notes": "v3.06 — new LS2k theme + owner's new seat-memory icon:\n• Settings → النمط has 4 pills now: تلقائي / ليلي / نهاري / LS2k.\n• LS2k mode: pure black bg + mostly white text (restraint). Blue lives only in the music card (deep navy fill) + play button + volume fill + prayer-active pill, each with a soft bloom that diffuses into the dark — matches the designer's radiant spectrum look from the HAVAL F7 cluster theme.\n• Seat-memory label icon replaced with the owner's chosen glyph (seat side view + recline/slide arrows), bumped from 18px to 28px so the arrows read."
 }
