@@ -2,7 +2,7 @@
   "apk_version": 118,
   "apk_name": "2.91",
   "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.91.apk",
-  "ui_version": 64,
+  "ui_version": 65,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_63.zip",
-  "notes": "v2.91 — زرّان جديدان في StandBy:\n• 🔒 قفل الأبواب: يقفل كل الأبواب بضغطة (fb=1). ينضاء فقط لمّا تكون في P، ومعتم لمّا تتحرّك.\n• 📹 كاميرا 360: يفتح الكاميرا المحيطية. معتم فوق ٣٠ كم/س.\n• ما فيه زر فتح أبواب — السائق يفتح من المقبض."
+  "notes": "v2.91 hotfix: UI 63 restored (التدليك + التبريد + كل الميزات رجعت). الأزرار الجديدة مؤقتاً مش ظاهرة لحين إصلاح الدمج."
 }
