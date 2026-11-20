@@ -1,8 +1,8 @@
 {
-  "apk_version": 115,
-  "apk_name": "2.88",
-  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.88.apk",
-  "ui_version": 63,
+  "apk_version": 118,
+  "apk_name": "2.91",
+  "apk_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/releases/My_Haval_v2.91.apk",
+  "ui_version": 64,
   "ui_url": "https://raw.githubusercontent.com/ya7iash-byte/my-haval-app/main/ui/ui_63.zip",
-  "notes": "v3.06 — new LS2k theme + owner's new seat-memory icon:\n• Settings → النمط has 4 pills now: تلقائي / ليلي / نهاري / LS2k.\n• LS2k mode: pure black bg + mostly white text (restraint). Blue lives only in the music card (deep navy fill) + play button + volume fill + prayer-active pill, each with a soft bloom that diffuses into the dark — matches the designer's radiant spectrum look from the HAVAL F7 cluster theme.\n• Seat-memory label icon replaced with the owner's chosen glyph (seat side view + recline/slide arrows), bumped from 18px to 28px so the arrows read."
+  "notes": "v2.91 — زرّان جديدان في StandBy:\n• 🔒 قفل الأبواب: يقفل كل الأبواب بضغطة (fb=1). ينضاء فقط لمّا تكون في P، ومعتم لمّا تتحرّك.\n• 📹 كاميرا 360: يفتح الكاميرا المحيطية. معتم فوق ٣٠ كم/س.\n• ما فيه زر فتح أبواب — السائق يفتح من المقبض."
 }
